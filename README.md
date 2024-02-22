@@ -35,7 +35,7 @@ npm install
 npm run dev
 ```
 
-Then open the browser at [http://localhost:3000/](http://localhost:3000/)](http://localhost:3000/).
+Then open the browser at [http://localhost:3000/](http://localhost:3000/).
 
 ## Docker
 
