@@ -28,7 +28,7 @@ This quantity marks a pro-level meditator.
 
 ## Node.js
 
-It would help if you had Node.js installed in the repo folder; execute these:
+It would help if you had [Node.js](https://nodejs.org/en) installed, then in the repo folder; execute these:
 
 ```
 npm install
@@ -39,7 +39,7 @@ Then open the browser at [http://localhost:3000/](http://localhost:3000/).
 
 ## Docker
 
-It would be best if you had Docker installed, then in the repo folder, execute these:
+It would be best if you had [Docker](https://www.docker.com/) installed, then in the repo folder, execute these:
 
 ```
 docker buildx build -t meditation-calculator-next:v01 .
