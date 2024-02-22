@@ -1,0 +1,14 @@
+{
+  "grammarly.selectors": [
+    {
+      "language": "typescriptreact",
+      "scheme": "file",
+      "pattern": "app/page.tsx"
+    },
+    {
+      "language": "markdown",
+      "scheme": "untitled",
+      "pattern": "Untitled-1"
+    }
+  ]
+}
